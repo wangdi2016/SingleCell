@@ -4,6 +4,10 @@
 
 https://www.pacb.com/products-and-services/applications/rna-sequencing/
 
+## PacBio Single Cell RNASeq MAS-Seq
+
+https://downloads.pacbcloud.com/public/dataset/Kinnex-single-cell-RNA/
+
 ## The Tabula Sapiens
 
 https://tabula-sapiens-portal.ds.czbiohub.org/
