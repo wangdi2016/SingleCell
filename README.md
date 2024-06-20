@@ -26,6 +26,8 @@ https://www.nature.com/collections/sxnwgntqsk
 
 http://gateway.training.ncgr.org/single-cell-workshop/
 
+https://hbctraining.github.io/scRNA-seq/lessons/09_merged_SC_marker_identification.html
+
 ## BTEP lectures
 
 https://bioinformatics.ccr.cancer.gov/btep/classes/the-ccr-single-cell-analysis-facility-scaf-an-overview
