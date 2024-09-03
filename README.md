@@ -33,6 +33,8 @@ https://hbctraining.github.io/scRNA-seq/lessons/09_merged_SC_marker_identificati
 
 https://www.singlecellcourse.org/index.html#registration
 
+https://www.stephaniehicks.com/2018-bioinfosummer-scrnaseq/introduction-to-single-cell-rna-seq.html#computational-analysis
+
 ## BTEP lectures
 
 https://bioinformatics.ccr.cancer.gov/btep/classes/the-ccr-single-cell-analysis-facility-scaf-an-overview
