@@ -45,3 +45,6 @@ https://www.stephaniehicks.com/2018-bioinfosummer-scrnaseq/introduction-to-singl
 ## BTEP lectures
 
 https://bioinformatics.ccr.cancer.gov/btep/classes/the-ccr-single-cell-analysis-facility-scaf-an-overview
+
+## BU Campbell
+https://github.com/campbio
