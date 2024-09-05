@@ -3,6 +3,9 @@
 ## single cell tutorial
 https://rockefelleruniversity.github.io/scRNA-seq/
 
+## single cell data integration
+https://www.sc-best-practices.org/introduction/prior_art.html
+
 ## PacBio RNASeq IsoSeq
 
 https://www.pacb.com/products-and-services/applications/rna-sequencing/
