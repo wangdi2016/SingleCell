@@ -8,6 +8,8 @@ https://www.sc-best-practices.org/introduction/prior_art.html
 
 https://www.singlecellcourse.org/scrna-seq-dataset-integration.html
 
+https://theislab.github.io/scib-reproducibility/
+
 ## PacBio RNASeq IsoSeq
 
 https://www.pacb.com/products-and-services/applications/rna-sequencing/
